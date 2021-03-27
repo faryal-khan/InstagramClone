@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/faryal-khan/SimpleTweet/blob/main/Twitter.gif" width="350" height="590"/> <br>
+<img src="https://github.com/faryal-khan/InstagramClone/blob/main/device-2021-03-27-145932.gif" width="350" height="590"/> <br>
 
 
 
